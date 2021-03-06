@@ -4,15 +4,17 @@ This repository includes code for processing data of hasm_silac_protein. hasm_si
 ## Install the software, download the data and set up the directory
 This pipeline is designed to be used in R environment.
 
-    install the R statistical package. We used version 4.0.4.
+1. Install the R statistical package. We used version 4.0.4.
 
-    Install the following R packages, which can be obtained using either the install.packages function in R or via the Bioconductor framework:
+2. Install the following R packages, which can be obtained using either the install.packages function in R or via the Bioconductor framework:
 
-    limma
-    proDA
-    sva
-    calibrate
-    ggplot
-    fgsea
-    tidyverse
-    data.table
+limma
+proDA
+sva
+calibrate
+ggplot
+fgsea
+tidyverse
+data.table
+
+    
