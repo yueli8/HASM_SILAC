@@ -1,0 +1,3 @@
+Description	Gene_Count	P_Value	Enrichment_Ratio
+cytosol	9	0.018758888066862	2.35604395604396
+extracellular exosome	8	0.025208956736755	2.46975318053226
